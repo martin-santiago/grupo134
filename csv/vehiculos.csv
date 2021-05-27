@@ -1,0 +1,118 @@
+vid,id_unidad,vtipo,vpatente,vestado
+0,8,auto,ZX2922,activo
+1,13,moto,PM8536,activo
+2,49,camioneta,VC7492,activo
+3,0,moto,LS5992,activo
+4,7,auto,PJ5481,activo
+5,18,auto,LX6914,activo
+6,44,bicicleta,EH9187,activo
+7,14,camioneta,ST8633,activo
+8,53,moto,EY2745,activo
+9,26,moto,LA5643,activo
+10,45,moto,AU5998,mantencion
+11,22,moto,ET5609,activo
+12,51,camioneta,MO4425,mantencion
+13,30,camioneta,BY5212,activo
+14,47,camioneta,EG8528,activo
+15,31,moto,QD4440,activo
+16,40,bicicleta,VX5561,activo
+17,2, camion,VT6220,activo
+18,35,auto,XK7318,activo
+19,21,camioneta,WW2485,activo
+20,6, camion,HV2199,activo
+21,19,bicicleta,ID7819,activo
+22,15,bicicleta,QA2495,activo
+23,39, camion,WF7217,activo
+24,10,moto,BN4195,activo
+25,1,camioneta,UW2735,mantencion
+26,11, camion,EF7582,activo
+27,42,moto,OT5458,mantencion
+28,17,camioneta,YN4644,activo
+29,37,bicicleta,FS3778,activo
+30,16,bicicleta,VW7522,activo
+31,23,camioneta,VI4743,activo
+32,34,auto,OJ8771,activo
+33,38,camioneta,OC4762,activo
+34,46,bicicleta,XN4914,mantencion
+35,20,bicicleta,XP9141,activo
+36,50,camioneta,EX4705,activo
+37,55,moto,BJ4245,activo
+38,52,auto,RH8308,activo
+39,29,camioneta,YP3858,activo
+40,48,camioneta,AL8743,activo
+41,27,auto,KM2551,activo
+42,56,bicicleta,EI5702,activo
+43,9,auto,RJ2733,mantencion
+44,41,bicicleta,YG2900,activo
+45,12,bicicleta,TO8113,mantencion
+46,36,camioneta,HE7029,activo
+47,4,bicicleta,HB3228,activo
+48,33,moto,OF5956,activo
+49,25, camion,SG9128,mantencion
+50,54,bicicleta,GO7311,activo
+51,32,auto,PM7495,activo
+52,28,auto,GS7205,activo
+53,24,bicicleta,PU5101,mantencion
+54,5, camion,VP2429,activo
+55,43,auto,MO4968,activo
+56,51,camioneta,BI5654,activo
+57,25,auto,YB8271,activo
+58,35,auto,VT2032,activo
+59,39,camioneta,MU6547,activo
+60,50,bicicleta,IW2489,activo
+61,18,moto,IG9597,mantencion
+62,17,bicicleta,AU6167,activo
+63,5,moto,JD8184,activo
+64,31,camioneta,RK2324,activo
+65,54, camion,LN6036,activo
+66,12,camioneta,PZ3477,mantencion
+67,7,bicicleta,GM1638,activo
+68,18, camion,CI3218,activo
+69,20,moto,UH6836,activo
+70,32, camion,QJ6353,activo
+71,5,camioneta,LW4637,activo
+72,41,moto,SL2391,mantencion
+73,4,camioneta,PP3724,activo
+74,23,bicicleta,QL4591,activo
+75,10,camioneta,BF7024,mantencion
+76,40,moto,QI7769,activo
+77,8,auto,FM3163,mantencion
+78,20,moto,NX3376,activo
+79,30,moto,XG7925,activo
+80,19,moto,KY2131,activo
+81,28,auto,MW6341,activo
+82,23,bicicleta,FU8868,activo
+83,7, camion,UH1378,activo
+84,39,auto,GT9752,activo
+85,14,camioneta,OB9598,mantencion
+86,21, camion,VR7517,mantencion
+87,9,auto,GF5994,activo
+88,45,auto,HF1544,activo
+89,45,moto,AI2283,mantencion
+90,23,camioneta,KC2936,activo
+91,32,moto,MN1612,mantencion
+92,12,moto,OR9516,activo
+93,43,camioneta,OE1789,mantencion
+94,30,bicicleta,WD8846,activo
+95,2,camioneta,MZ9845,activo
+96,3,bicicleta,RV9799,mantencion
+97,21,moto,IV2746,activo
+98,33,moto,TJ7818,mantencion
+99,2,camioneta,OF1501,activo
+100,56,camioneta,BY4314,activo
+101,4,camioneta,AM9504,activo
+102,12,camioneta,ZV9679,activo
+103,3,auto,SV9482,activo
+104,51,bicicleta,UL8619,activo
+105,49,camioneta,LF8633,activo
+106,53,camioneta,PR9667,activo
+107,35, camion,MZ2239,activo
+108,14,bicicleta,WI9449,activo
+109,2,camioneta,XG4556,activo
+110,1,auto,HW2014,activo
+111,28,moto,BZ3311,activo
+112,3,bicicleta,BB5259,mantencion
+113,39,camioneta,WC8293,activo
+114,36,auto,RY9242,mantencion
+115,32, camion,OM4230,activo
+116,40,auto,AL1557,mantencion
