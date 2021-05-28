@@ -1,4 +1,4 @@
-vid,id_vehiculo,vvolumen(m3),carga_máxima(ton)
+vid,id_vehiculo,vvolumen,vcarga_máxima
 0,12,1.6,0.79
 1,14,1.14,0.95
 2,28,1.95,0.77
