@@ -1,4 +1,4 @@
-vid,id_vehiculo,vcantidad_compartimentos,vcapacidad_compartimentos(kg)
+vid,id_vehiculo,vcantidad_compartimentos,vcapacidad_compartimentos
 0,4,3.0,11.0
 1,6,1.0,9.0
 2,7,5.0,22.0
